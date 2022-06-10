@@ -17,7 +17,7 @@ Project under development.
 ```bash
     # Clonar repositório
 
-    $ git clone 
+    $ git clone git@github.com:CrisSouzaMA/trybe-docker-to-do-list.git
 
     # Entrar no diretório
 
