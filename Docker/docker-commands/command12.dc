@@ -1,0 +1,3 @@
+12. Suba uma orquestração em segundo plano com o docker-compose de forma que backend, frontend e tests consigam se comunicar. Resposta:
+
+docker-compose up -d
