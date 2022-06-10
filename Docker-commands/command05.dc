@@ -1,0 +1,3 @@
+5. Remova o container 01container que está em andamento. Resposta:
+
+docker container rm -f 01container
