@@ -1,0 +1,3 @@
+3. Liste os containers filtrando pelo nome 01container. Resposta:
+
+docker container ls 01container
