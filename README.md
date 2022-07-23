@@ -5,14 +5,13 @@
 <br>
 <br>
 
-## What is the project about?
+## Sobre o projeto:
 
-This project was made to practice basic Docker lessons.
-Project under development.
+Projeto desenvolvido para a prática de aplicação de conteúdo básico em Docker.
 
 ---
 
-## Instructions for running the project:
+## Instruções:
 
 ```bash
     # Clonar repositório
